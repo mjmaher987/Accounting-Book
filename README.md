@@ -14,6 +14,6 @@ This is a group volunteering project implementing an accounting book for our fin
 ### Database
 
 ## TODO
-- [] Tutorials for Telegram Bot
-- [] Implementation of Backend Code (Logic) using Python
-- [] Tutorials for Linking database to backend code and bot
+  - [ ] Tutorials for Telegram Bot
+  - [ ] Implementation of Backend Code (Logic) using Python
+  - [ ] Tutorials for Linking database to backend code and bot
