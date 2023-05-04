@@ -2,8 +2,9 @@
 This is an accounting book implemented using Telegram Bot, Python Backend, and PostgreSQL Database.
 
 ## Contributors
-* Mohammad Hossein Shafizadegan
-* Mohammad Javad Maheronnaghsh
+- Mohammad Hossein Shafizadegan
+- Mohammad Javad Maheronnaghsh
+- Mohammad Mowlavi
 
 ## About
 This is a group volunteering project implementing an accounting book for our financial issues.
