@@ -1,4 +1,6 @@
 # Accounting-Book
+![image](https://github.com/mjmaher987/Accounting-Book/assets/77095635/afd168f6-b158-4732-b6f6-d064e6ba4046)
+
 This is an accounting book implemented using Telegram Bot, Python Backend, and PostgreSQL Database.
 
 ## Contributors
@@ -15,9 +17,6 @@ This is a group volunteering project implementing an accounting book for our fin
 ### Database
 
 ## TODO
-  - [ ] Tutorials for Telegram Bot
-  - [ ] Implementation of Backend Code (Logic) using Python
-  - [ ] Tutorials for Linking database to backend code and bot
-
-## Challenges
-* I could'nt find a proper "Telegram Bot from Scratch" that works on my own PC. Some of them are old or has problems while running on my own system.
+  - [x] Tutorials for Telegram Bot
+  - [x] Implementation of Backend Code (Logic) using Python
+  - [x] Tutorials for Linking database to backend code and bot
